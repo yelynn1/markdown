@@ -2,7 +2,7 @@
   "name": "html-markdown",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://yelynn1.github.io/html-markdown",
+  "homepage": "http://yelynn1.github.io/markdown",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
